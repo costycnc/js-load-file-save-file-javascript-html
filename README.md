@@ -19,6 +19,12 @@ In this example you find how save file as different data you can find more detai
 				FileReader.readAsBinaryString()
 				FileReader.readAsDataURL()
 				FileReader.readAsText()
+				
+and here https://github.com/costycnc/costycnc-js-html-open-read-file-potrace 
+
+how interact with potrace library to transform image raster to svg (original potrace code)
+
+or image raster to gcode (modified original potrace code with my alghoritm)
  
  remember that this is first think that help me to create https://www.costycnc.it/cm8 image to gcode converter 
  
