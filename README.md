@@ -3,6 +3,7 @@
 For principiants open files and read modify data of file and save result perhaps is one of more exciting things in all javascript language programming.
 
 In this example you find how save file as different data 
+
                	       //data url
 
 	               //data:,Hello%2C%20World%21
