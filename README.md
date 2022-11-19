@@ -2,7 +2,7 @@
 
 For principiants open files and read modify data of file and save result perhaps is one of more exciting things in all javascript language programming.
 
-In this example you find how save file as different data 
+In this example you find how save file as different data you can find more details here https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Data_URIs  
 
                	       //data url
 
@@ -11,7 +11,7 @@ In this example you find how save file as different data
 	               //data:text/html,%3Ch1%3EHello%2C%20World%21%3C%2Fh1%3E
 	               //data:text/html,<script>alert('hi');
                  
- //https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Data_URIs  
+
  
  and how read file as different type
  
